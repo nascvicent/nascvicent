@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭Computer Engineering Student at University of Pernambuco<br>🌱 I'm currently learning Machine Learning tools & techniques<br>⚡Game dev in free time
 
 
