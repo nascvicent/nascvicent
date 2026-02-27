@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nascvicent&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nascvicent&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/nascvicent/nascvicent/output/snake.svg" alt="Snake animation" />
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nascvicent&icon=0&color=0)](https://visitcount.itsvg.in)
 
